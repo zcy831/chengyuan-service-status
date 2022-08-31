@@ -76,9 +76,9 @@
     "url": "https://www.baidu.com",
     "icon": "https://favicons.githubusercontent.com/www.baidu.com",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 2394,
     "timeMonth": 2394,
     "timeYear": 2394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   }
 ]
